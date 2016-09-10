@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7968",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7968" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7968" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C83F5F9E-7C96-4C01-B2C0-F5EA58FE5F6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7968" : "conferences-current\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CocoaConfFirebaseDemo01",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "2016 CocoaConf Fall\/Firebase session\/code\/CocoaConfFirebaseDemo01\/CocoaConfFirebaseDemo01.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/garnet.local",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7968"
+    }
+  ]
+}
